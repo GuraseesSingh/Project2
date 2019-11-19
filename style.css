@@ -1,0 +1,33 @@
+body {
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #FBE1C7;
+}
+
+h1{
+  color: #136CD1;
+  text-align: center;
+  background-color: #B9FE5F;
+  height: 50px;
+  padding-top: 9px;
+}
+
+input{
+  width: 60%;
+  height: 30px;
+}
+
+h2{
+  text-align: center;
+  color: #749E3D;
+  font-size: 30px;
+  background-color: #D8E3C9;
+  height: 40px;
+  padding-top: 5px;
+}
+
+#completed{
+  width: 60%;
+  height: 30px;
+}
